@@ -1,0 +1,6 @@
+[submodule "amazona-frontend"]
+	path = amazona-frontend
+	url = https://github.com/lohith-dev/amazona-frontend.git
+[submodule "amazon-backend"]
+	path = amazon-backend
+	url = https://github.com/lohith-dev/amazon-backend.git
